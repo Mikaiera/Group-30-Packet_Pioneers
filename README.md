@@ -75,7 +75,7 @@ Enterprise network solution for a 100×50m office building.
 ## Application Preview
 
 ### Login Screen
-![Login Interface](Group-30-Packet_Pioneers/APP-Preview/AppPreview/login-screen.png)
+![Login Interface](APP-Preview/AppPreview/login-screen.png)
 ![Signup Interface](Group-30-Packet_Pioneers/APP-Preview/AppPreview/sign-up.png)
 *Secure authentication with email/password*
 
