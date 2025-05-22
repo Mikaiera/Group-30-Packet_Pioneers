@@ -12,20 +12,44 @@ Intented to be a portable text messaging application designed for Windows (with 
 - **Portable**: Runs directly without installation
 
 ## Team Members
-| Name ||
-|------|------|
-| Schalk Van Wyk||
-| N Hlumbene|| 
-| L Mileng ||
-| Mekayla Moyikwa ||
-| Sly Phosa ||
+| Name | Role Assigned                                |
+|------|----------------------------------------------|
+| Schalk Van Wyk| Building Messenger App              |
+| N Hlumbene| Designing/Creating Network Topology     | 
+| L Mileng | Designing/Creating Network Topology      |
+| Mekayla Moyikwa | Building Messenger App            |
+| Selaelo Phosa | Designing/Creating Network Topology |
 
-## Technologies
-- **Frontend**:
-- **Backend**:
-- **Networking**:
-- **Database**:
+## Technology
+| Component       | Technology                          |
+|-----------------|-------------------------------------|
+| **Frontend**    | Windows Forms (.NET 6)              |
+| **Backend**     | Firebase Realtime Database          |
+| **Networking**  | HTTPS/REST API                      |
+| **Security**    | Firebase Authentication             |
 
 ## Installation & Usage
-1. **Download** the project files
-2. **Run the application**:
+### Prerequisites
+- Windows 10/11 (64-bit)
+- [*Optional*: .NET Runtime if required]
+
+1. **Download** the Pioneer_Messenger.zip above and extract the files.
+   1.1 Open the Debug folder and double-click the setup application.
+2. **Follow the** installation wizard (Admin rights may be required)
+   *A shortcut will be created on your desktop*
+4. Launch from **Desktop** or **Start Menu** shortcut.
+
+## Application Preview
+
+### Login Screen
+![Login Interface](Group-30-Packet_Pioneers/APP-Preview/App Preview/login-screen.png)
+![Signup Interface](Group-30-Packet_Pioneers/APP-Preview/App Preview/sign-up.png)
+*Secure authentication with email/password*
+
+### Main Chat
+![Chat Window](Group-30-Packet_Pioneers/APP-Preview/App Preview/main-chat.png)
+*Clean messaging interface with conversation history*
+
+### Group Chat
+![Group Messaging](Group-30-Packet_Pioneers/APP-Preview/App Preview/group-creator-window.png)
+*Group creation interface*
