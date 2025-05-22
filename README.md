@@ -10,6 +10,7 @@ Intended to be a portable text messaging application designed for Windows (with 
 - **Individual & Group Chats**: Support for both one-on-one and group conversations
 - **Internet-Based**: Works over the Internet (not limited to LAN)
 - **Portable**: Runs directly without installation
+- **Support**:  For application code email [Microsoft(Mekayla)](mailto:mmekayla05@outlook.com) or [Gmail(Schalk)](mailto:schalkvanwyk08@gmail.com)
 
 In addition, a cost-optimised office network infrastructure using VLAN segmentation, scalable architecture, and bandwidth management (50Mb/s wired, 10Mb/s wireless) to support business growth while minimising expenses, a network infrastructure is designed.
 
@@ -76,13 +77,13 @@ Enterprise network solution for a 100×50m office building.
 
 ### Login Screen
 ![Login Interface](APP-Preview/AppPreview/login-screen.png)
-![Signup Interface](Group-30-Packet_Pioneers/APP-Preview/AppPreview/sign-up.png)
+![Signup Interface](APP-Preview/AppPreview/sign-up.png)
 *Secure authentication with email/password*
 
 ### Main Chat
-![Chat Window](Group-30-Packet_Pioneers/APP-Preview/AppPreview/main-chat.png)
+![Chat Window](APP-Preview/AppPreview/main-chat.png)
 *Clean messaging interface with conversation history*
 
 ### Group Chat
-![Group Messaging](Group-30-Packet_Pioneers/APP-Preview/AppPreview/group-creator-window.png)
+![Group Messaging](APP-Preview/AppPreview/group-creator-window.png)
 *Group creation interface*
