@@ -51,7 +51,7 @@ Enterprise network solution for a 100×50m office building.
 
 ## Technology Stack
 ### Messaging App
-- **Frontend**: Windows Forms (.NET 6)
+- **Frontend**: Windows Forms (.NET FRAMEWORK)
 - **Backend**: Firebase Realtime Database
 - **Security**: Firebase Authentication
 - **Networking**: HTTPS/REST API    
