@@ -44,8 +44,8 @@ Enterprise network solution for a 100×50m office building.
 | Name | Role Assigned                                |
 |------|----------------------------------------------|
 | Schalk Van Wyk| Building Messenger App              |
-| N Hlumbene| Designing/Creating Network Topology     | 
-| L Mileng | Designing/Creating Network Topology      |
+| Neo Hlumbene| Designing/Creating Network Topology   | 
+| Lesedi Mileng | Designing/Creating Network Topology |
 | Mekayla Moyikwa | Building Messenger App            |
 | Selaelo Phosa | Designing/Creating Network Topology |
 
