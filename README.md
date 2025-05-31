@@ -67,7 +67,8 @@ Enterprise network solution for a 100×50m office building.
 - Windows 10/11 (64-bit)
 - [*Optional*: .NET Runtime if required]
 
-1. **Download** the Pioneer_Messenger.zip above and extract the files.
+1. **Email [Microsoft(Mekayla)](mailto:mmekayla05@outlook.com) or [Gmail(Schalk)](mailto:schalkvanwyk08@gmail.com)
+** for the Pioneer_Messenger.zip above and extract the files.
    1.1 Open the Debug folder and double-click the setup application.
 2. **Follow the** installation wizard (Admin rights may be required)
    *A shortcut will be created on your desktop*
