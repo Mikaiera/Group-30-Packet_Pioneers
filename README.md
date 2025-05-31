@@ -9,7 +9,7 @@ Intended to be a portable text messaging application designed for Windows (with 
 - **Real-Time Messaging**: Send and receive text messages instantly
 - **Individual & Group Chats**: Support for both one-on-one and group conversations
 - **Internet-Based**: Works over the Internet (not limited to LAN)
-- **Portable**: Runs directly without installation
+- **Portable**
 - **Support**:  For application code email [Microsoft(Mekayla)](mailto:mmekayla05@outlook.com) or [Gmail(Schalk)](mailto:schalkvanwyk08@gmail.com)
 
 In addition, a cost-optimised office network infrastructure using VLAN segmentation, scalable architecture, and bandwidth management (50Mb/s wired, 10Mb/s wireless) to support business growth while minimising expenses, a network infrastructure is designed.
